@@ -34,6 +34,8 @@ Some basic game examples you can see for learning Phaser Editor 2D features:
 
 * [starter-example-sunny-land](https://github.com/PhaserEditor2D/starter-example-sunny-land): an example of using [Tiled](https://www.mapeditor.org/) tilemaps and Arcade physics.
 * [starter-example-volcano](https://github.com/PhaserEditor2D/starter-example-volcano): an example of a platformer game.
+* [starter-example-a-day-in-the-beach](https://github.com/PhaserEditor2D/starter-example-a-day-in-the-beach): an example of a point-and-click game.
+
 
 ## Commercial
 
@@ -47,7 +49,7 @@ A huge part of Phaser Editor 2D is open source. However, it is a commercial prod
 Contact me by:
 
 * Creating an issue in any of the projects in this account.
-* Chatting in the [Phaser Editor 2D Discord server](https://discord.com/invite/4DdpMMD).
+* Chatting me in the [Phaser Editor 2D Discord server](https://discord.com/invite/4DdpMMD).
 * Writing me an email to `developers@phasereditor2d.com`.
 
 ## Follow me
