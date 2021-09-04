@@ -1,8 +1,8 @@
-### Hi there 👋
-
-![screenshot](editor-screenshot.png)
+### Welcome! 👋
 
 This is the account for all the [Phaser Editor 2D](https://phasereditor2d.com) projects.
+
+![screenshot](editor-screenshot.png)
 
 These are some of the most important repositories:
 
