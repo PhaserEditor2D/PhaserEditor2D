@@ -10,6 +10,7 @@ This is the account for all the [Phaser Editor 2D](https://phasereditor2d.com) p
 These are some of the most important repositories:
 
 * [PhaserEditor2D-v3](https://github.com/PhaserEditor2D/PhaserEditor2D-v3): contains the code of the IDE (the client side). This is the biggest piece of the editor.
+* [PhaserEditor2D-v3-core](#): Is the heart of Phaser Editor 2D. Contains the IDE (client) and the native backend. It's code is not public.
 * [PhaserEditor2D-v3-allInOne](https://github.com/PhaserEditor2D/PhaserEditor2D-v3-allInOne): contains the code for the All-in-One edition of Phaser Editor 2D.
 * [PhaserEditor-v3-docs](https://github.com/PhaserEditor2D/PhaserEditor-v3-docs): the source files and images of the [Phaser Editor 2D Help](https://help.phasereditor2d.com/v3).
 * [phasereditor2d-launcher](https://github.com/PhaserEditor2D/phasereditor2d-launcher): the code of the [NPM package](https://www.npmjs.com/package/phasereditor2d-launcher) for launching Phaser Editor 2D Core.
