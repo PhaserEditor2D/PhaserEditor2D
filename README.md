@@ -4,18 +4,22 @@ This is the account for all the [Phaser Editor 2D](https://phasereditor2d.com) p
 
 ![screenshot](editor-screenshot.png)
 
+## Open source projects
 
-## Main projects
-
-These are some of the most important repositories:
+These are some of the most important public repositories:
 
 * [PhaserEditor2D-v3](https://github.com/PhaserEditor2D/PhaserEditor2D-v3): contains the code of the IDE (the client side). This is the biggest piece of the editor.
-* [PhaserEditor2D-v3-core](https://github.com/PhaserEditor2D/PhaserEditor2D-v3-core): contains the code of the Core server. This is a private repository.
 * [PhaserEditor2D-v3-allInOne](https://github.com/PhaserEditor2D/PhaserEditor2D-v3-allInOne): contains the code for the All-in-One edition of Phaser Editor 2D.
-* [PhaserEditor2D-v3-build-products](https://github.com/PhaserEditor2D/PhaserEditor2D-v3-build-products): the scripts for building the final products. This is a private repository.
 * [PhaserEditor-v3-docs](https://github.com/PhaserEditor2D/PhaserEditor-v3-docs): the source files and images of the [Phaser Editor 2D Help](https://help.phasereditor2d.com/v3).
 * [phasereditor2d-launcher](https://github.com/PhaserEditor2D/phasereditor2d-launcher): the code of the [NPM package](https://www.npmjs.com/package/phasereditor2d-launcher) for launching Phaser Editor 2D Core.
 * [helpcenter-phaser3](https://github.com/PhaserEditor2D/helpcenter-phaser3): contains the code of the [Unofficial Phaser Help Center](https://helpcenter.phasereditor2d.com). It is a powerful tool for browsing the Phaser code and examples.
+
+## Closed source projects
+
+These projects are an essential part of Phaser Editor 2D but are only available to our enterprise customers:
+
+* [PhaserEditor2D-v3-core](https://github.com/PhaserEditor2D/PhaserEditor2D-v3-core): contains the code of the Core server.
+* [PhaserEditor2D-v3-build-products](https://github.com/PhaserEditor2D/PhaserEditor2D-v3-build-products): the scripts for building the final products.
 
 Other important resources are the [Phaser Editor 2D Starter projects](https://phasereditor2d.com/start):
 
