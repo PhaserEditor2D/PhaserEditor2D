@@ -13,6 +13,9 @@ These are some of the most important public repositories:
 * [PhaserEditor2D-v3-docs](https://github.com/PhaserEditor2D/PhaserEditor-v3-docs): the source files and images of the [Phaser Editor 2D Help](https://help.phasereditor2d.com/v3).
 * [phasereditor2d-launcher](https://github.com/PhaserEditor2D/phasereditor2d-launcher): the code of the [NPM package](https://www.npmjs.com/package/phasereditor2d-launcher) for launching Phaser Editor 2D Core.
 * [helpcenter-phaser3](https://github.com/PhaserEditor2D/helpcenter-phaser3): contains the code of the [Unofficial Phaser Help Center](https://helpcenter.phasereditor2d.com). It is a powerful tool for browsing the Phaser code and examples.
+* [PhaserEditor2D-marketplace](https://github.com/PhaserEditor2D/PhaserEditor2D-marketplace): a site about the Phaser & Phaser Editor 2D community. For listing project templates, examples, plugins, libraries, blogs, books.
+* [phasereditor2d-ninepatch-plugin](https://github.com/PhaserEditor2D/phasereditor2d-ninepatch-plugin) A Phaser Editor 2D plugin for supporting the NinePatch game object.
+* [phasereditor2d-roundedRectangle-plugin](https://github.com/PhaserEditor2D/phasereditor2d-roundedRectangle-plugin) A Phaser Editor 2D plugin for supporting the RoundedRectangle game object.
 
 ## Closed source projects
 
