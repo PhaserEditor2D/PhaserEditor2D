@@ -37,6 +37,8 @@ The basic templates for starting a new project:
 * [starter-template-basic-javascript](https://github.com/PhaserEditor2D/starter-template-basic-javascript): the simplest project template.
 * [starter-template-basic-typescript](https://github.com/PhaserEditor2D/starter-template-basic-typescript): a simple TypeScript-based project template.
 * [starter-template-webpack](https://github.com/PhaserEditor2D/starter-template-webpack): a WebpackJS project template. The one I recommend for starting a large or professional project.
+* [starter-template-capacitorjs](https://github.com/PhaserEditor2D/starter-template-capacitorjs): a template for building native wrappers for your games, with the CapacitorJS framework.
+* [starter-template-customfonts](https://github.com/PhaserEditor2D/starter-template-customfonfs): a project template with a custom web font loader. The custom fonts are loaded into the editor with an editor's plugin.
 
 ### Starter examples
 
