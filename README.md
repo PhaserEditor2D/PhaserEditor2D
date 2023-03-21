@@ -48,6 +48,11 @@ Some basic game examples you can see for learning Phaser Editor 2D features:
 * [starter-example-volcano](https://github.com/PhaserEditor2D/starter-example-volcano): an example of a platformer game.
 * [starter-example-a-day-in-the-beach](https://github.com/PhaserEditor2D/starter-example-a-day-in-the-beach): an example of a point-and-click game.
 
+## Script Node library
+
+A library of Script Node prefabs.
+
+* [script-nodes-basic](https://github.com/PhaserEditor2D/script-nodes-basic): the script nodes for doing the basics.
 
 ## Commercial
 
