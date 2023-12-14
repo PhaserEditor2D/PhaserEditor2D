@@ -48,11 +48,15 @@ Some basic game examples you can see for learning Phaser Editor 2D features:
 * [starter-example-volcano](https://github.com/PhaserEditor2D/starter-example-volcano): an example of a platformer game.
 * [starter-example-a-day-in-the-beach](https://github.com/PhaserEditor2D/starter-example-a-day-in-the-beach): an example of a point-and-click game.
 
-## Script Node library
+## Script libraries
 
-A library of Script Node prefabs.
+We provide a few of script libraries for performing basic tasks:
 
-* [script-nodes-basic](https://github.com/PhaserEditor2D/script-nodes-basic): the script nodes for doing the basics.
+* [scripts-core](https://github.com/PhaserEditor2D/phasereditor2d-scripts-core): the basic scripts, included in every project.
+* [scripts-arcade](https://github.com/PhaserEditor2D/phasereditor2d-scripts-arcade): physics actions and events.
+* [scripts-audio](https://github.com/PhaserEditor2D/phasereditor2d-scripts-audio): scripts for playback audio.
+* [scripts-simple-animations](https://github.com/PhaserEditor2D/phasereditor2d-scripts-simple-animations): a couple of "tween" effects for game objects.
+* [scripts-timer](https://github.com/PhaserEditor2D/phasereditor2d-scripts-timer): scripts for executing delayed actions.
 
 ## Commercial
 
