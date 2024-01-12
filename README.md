@@ -47,6 +47,7 @@ Some basic game examples you can see for learning Phaser Editor 2D features:
 * [starter-example-sunny-land](https://github.com/PhaserEditor2D/starter-example-sunny-land): an example of using [Tiled](https://www.mapeditor.org/) tilemaps and Arcade physics.
 * [starter-example-volcano](https://github.com/PhaserEditor2D/starter-example-volcano): an example of a platformer game.
 * [starter-example-a-day-in-the-beach](https://github.com/PhaserEditor2D/starter-example-a-day-in-the-beach): an example of a point-and-click game.
+* [flappy-chicken-scripts-demo](https://github.com/PhaserEditor2D/flappy-chicken-scripts-demo): an example of a a flappy chicken, full of script-nodes.
 
 ## Script libraries
 
@@ -57,6 +58,7 @@ We provide a few of script libraries for performing basic tasks:
 * [scripts-audio](https://github.com/PhaserEditor2D/phasereditor2d-scripts-audio): scripts for playback audio.
 * [scripts-simple-animations](https://github.com/PhaserEditor2D/phasereditor2d-scripts-simple-animations): a couple of "tween" effects for game objects.
 * [scripts-timer](https://github.com/PhaserEditor2D/phasereditor2d-scripts-timer): scripts for executing delayed actions.
+* [scripts-random](https://github.com/PhaserEditor2D/phasereditor2d-scripts-random): scripts for generating random values.
 
 ## Commercial
 
