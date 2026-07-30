@@ -2,7 +2,7 @@
 
 **LEGACY ACCOUNT FOR PHASER EDITOR***
 
-Newer versions of Phaser Editor are now part of [Phaser Studio Inc](github.com/phaserjs/)
+*Newer versions of Phaser Editor are now part of [Phaser Studio Inc](github.com/phaserjs/)
 
 This is the account for all the [Phaser Editor 2D](https://phasereditor2d.com) projects.
 
